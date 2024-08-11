@@ -1,4 +1,4 @@
-# I Am Poor
+# I Am Poor (unreleased)
 
 ## Overview
 This app is inspired by the "I Am Rich" app phenomenon, where a developer created an app with a single image displaying a diamond. The app had no usability or features but carried a significant price tag. "I Am Poor" is a project completed as part of the London App Brewery's iOS Development Bootcamp.
